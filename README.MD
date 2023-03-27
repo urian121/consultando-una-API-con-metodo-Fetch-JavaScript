@@ -1,6 +1,6 @@
-Ejemplo practico para consulta una API con el métod fetch de JavaScript,
+Ejemplo práctico para consulta una API con el método fetch de JavaScript,
 ademas usando los métodos async y await para hacerlo un poquito
-más atractiva dichav petición.
+más atractiva la petición.
 
 El método fetch hacer una solicitud GET a la API de perros aleatorios.
 Después, verificamos si la respuesta es satisfactoria (response.ok devuelve true)
